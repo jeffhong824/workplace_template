@@ -1,2 +1,5 @@
 # workplace_template
-modulize software tech
+
+## Quick Start work station
+* modulize any software tech
+* markdown SOP
